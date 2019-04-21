@@ -10,7 +10,7 @@ This is the backdoor that I normally use for server exploits that I attack.
 - Database (Connect to victim database more easily)
 - Capture all sensitive or insensitive variables from the server.
 - Create a fake email to the web admin? don't worry I have provided it. ;)
-- Do you want to use a reverse shell or bind shell or just a cruiser package? all you can do is close your eyes.
+- Do you want to use a reverse shell or bind shell or just a cruiser package? all you can do with closed eyes.
 - Task manager? as you wish to end any process that is holding you back.
 
 # Installation
