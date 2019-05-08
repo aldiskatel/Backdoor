@@ -1,9 +1,6 @@
 # I Love Exploit, Get with your own name and password!
 This is the backdoor that I normally use for server exploits that I attack.
 
-# Releases for this project
-Get here: https://github.com/aldiskatel/Backdoor/releases
-
 # Features
 - Surfing in the target directory
 - Falsify data, time, and several other meta
@@ -15,6 +12,9 @@ Get here: https://github.com/aldiskatel/Backdoor/releases
 - Create a fake email to the web admin? don't worry I have provided it. ;)
 - Do you want to use a reverse shell or bind shell or just a cruiser package? all you can do with closed eyes.
 - Task manager? as you wish to end any process that is holding you back.
+
+# Releases for this project
+Get here: https://github.com/aldiskatel/Backdoor/releases
 
 # Installation
 I think you understand enough about installation, you can use the tempering method, make use of file uploads or even social engineering.
